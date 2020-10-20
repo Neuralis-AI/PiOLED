@@ -24,5 +24,6 @@ git clone https://github.com/Neuralis-AI/PiOLED.git
 En voer stats.py uit met  
 
 ```
+cd PiOLED
 python3 stats.py
 ```
