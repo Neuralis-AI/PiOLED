@@ -19,7 +19,7 @@ sudo pip3 install adafruit-circuitpython-ssd1306
 Clone dan deze repository met  
 
 ```
-git clone 
+git clone https://github.com/Neuralis-AI/PiOLED.git
 ```
 En voer stats.py uit met  
 
